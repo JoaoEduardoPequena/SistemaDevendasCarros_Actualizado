@@ -1,0 +1,137 @@
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.exe.config
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.exe
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.exe
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\BLL.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\DTO.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\DAL.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\MySql.Data.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\BLL.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\DTO.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\DAL.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_De_Cadastro_De_Carros.resources
+C:\Users\João Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.Tela_Menu_Principal.resources
+C:\Users\João Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTelaDeCadastroDeUsuarios.resources
+C:\Users\João Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_De_Carregamento.resources
+C:\Users\João Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_de_Login.resources
+C:\Users\João Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmConsulta_Carros.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\BLL.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\DAL.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\DTO.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\MySql.Data.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\BLL.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\DAL.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\bin\Debug\DTO.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmConsulta_Carros.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTelaDeCadastroDeUsuarios.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_De_Cadastro_De_Carros.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_De_Carregamento.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_de_Login.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.Tela_Menu_Principal.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.CadEstoque.resources
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.Cad_EfectuarVendas.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.CadEstoque.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.Cad_EfectuarVendas.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmConsulta_Carros.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTelaDeCadastroDeUsuarios.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_De_Cadastro_De_Carros.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_De_Carregamento.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.frmTela_de_Login.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.Tela_Menu_Principal.resources
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros - Copia\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.CadEstoque.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.frmConsulta_Carros.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.frmTelaDeCadastroDeUsuarios.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.frmTela_De_Cadastro_De_Carros.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.frmTela_De_Carregamento.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.frmTela_de_Login.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.Tela_Menu_Principal.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\bin\Debug\MySql.Data.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\Interfaces\obj\Debug\Interfaces.TelaDeVendaActualizada.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\MySql.Data.DLL
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.CadEstoque.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmConsulta_Carros.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmTelaDeCadastroDeUsuarios.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmTela_De_Cadastro_De_Carros.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmTela_De_Carregamento.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmTela_de_Login.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.TelaDeVendaActualizada.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.Tela_Menu_Principal.resources
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\BLL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\DTO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\BLL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\bin\Debug\DTO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.CadEstoque.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmConsulta_Carros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmTelaDeCadastroDeUsuarios.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmTela_De_Cadastro_De_Carros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmTela_De_Carregamento.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.frmTela_de_Login.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.TelaDeVendaActualizada.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.Tela_Menu_Principal.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\Interfaces\obj\Debug\Interfaces.exe

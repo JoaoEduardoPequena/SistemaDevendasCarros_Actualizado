@@ -1,0 +1,34 @@
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DAL\bin\Debug\DAL.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DAL\bin\Debug\DAL.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DAL\bin\Debug\MySql.Data.DLL
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DAL\obj\Debug\DAL.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DAL\obj\Debug\DAL.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DAL\bin\Debug\DAL.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DAL\bin\Debug\DAL.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DAL\bin\Debug\MySql.Data.DLL
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DAL\obj\Debug\DAL.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DAL\obj\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DAL\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DAL\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DAL\obj\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DAL\obj\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DAL\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DAL\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DAL\bin\Debug\MySql.Data.DLL
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DAL\obj\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DAL\obj\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DAL\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DAL\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DAL\bin\Debug\MySql.Data.DLL
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DAL\obj\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DAL\obj\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DAL\bin\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DAL\bin\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DAL\obj\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DAL\obj\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DAL\bin\Debug\DAL.dll.config

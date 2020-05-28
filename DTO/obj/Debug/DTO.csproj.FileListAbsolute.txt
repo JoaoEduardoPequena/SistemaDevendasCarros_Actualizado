@@ -1,0 +1,29 @@
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DTO\bin\Debug\DTO.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DTO\bin\Debug\DTO.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DTO\obj\Debug\DTO.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\DTO\obj\Debug\DTO.pdb
+C:\Users\João Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DTO\bin\Debug\DTO.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DTO\bin\Debug\DTO.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DTO\obj\Debug\DTO.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DTO\obj\Debug\DTO.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DTO\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DTO\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DTO\obj\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\DTO\obj\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DTO\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DTO\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DTO\obj\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\DTO\obj\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DTO\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DTO\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DTO\obj\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\DTO\obj\Debug\DTO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DTO\bin\Debug\DTO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DTO\bin\Debug\DTO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DTO\obj\Debug\DTO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\DTO\obj\Debug\DTO.pdb

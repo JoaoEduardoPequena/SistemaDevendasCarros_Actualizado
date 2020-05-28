@@ -1,0 +1,58 @@
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\BLL.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\BLL.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\DAL.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\DTO.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\MySql.Data.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\DAL.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\DTO.pdb
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\obj\Debug\BLL.dll
+c:\users\joão eduardo\documents\visual studio 2012\Projects\Venda_de_Carros\BLL\obj\Debug\BLL.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\BLL.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\BLL.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\DAL.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\DTO.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\DAL.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\bin\Debug\DTO.pdb
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\obj\Debug\BLL.dll
+C:\Users\Bruno xtraga\Documents\Visual Studio 2012\Projects\Venda_de_Carros\BLL\obj\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\bin\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\bin\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\obj\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Venda_de_Carros\BLL\obj\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\bin\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\bin\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\bin\Debug\MySql.Data.DLL
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\obj\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros - Copia\BLL\obj\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\BLL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\DAL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\DTO.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\MySql.Data.DLL
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\DAL.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\DTO.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\obj\Debug\BLL.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2012\Projects\Venda_de_Carros- ACTUALIZADO\BLL\obj\Debug\BLL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\BLL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\BLL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\DTO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\bin\Debug\DTO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\obj\Debug\BLL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\Venda_de_Carros- ACTUALIZADO\BLL\obj\Debug\BLL.pdb
